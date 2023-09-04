@@ -19,7 +19,7 @@ body{
 }
 .grid{
     margin-top: 50px;
-    width: 302px;
+    width: 305px;
     height: 300px;
     border: 1px solid black;
     display: flex;
